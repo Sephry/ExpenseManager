@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/profile"
+        android:title="Profilim"
+        android:icon="@drawable/ic_profile">
+
+    </item>
+    <item android:id="@+id/dashboard"
+        android:title="Ana Ekran"
+        android:icon="@drawable/ic_dashboard">
+
+    </item>
+    <item android:id="@+id/income"
+        android:title="Gelir"
+        android:icon="@drawable/ic_income">
+
+    </item>
+
+    <item android:id="@+id/expense"
+        android:title="Gider"
+        android:icon="@drawable/ic_expense">
+
+    </item>
+
+
+
+
+    <item android:id="@+id/logout"
+        android:title="Çıkış Yap"
+        android:icon="@drawable/ic_logout">
+
+    </item>
+</menu>
